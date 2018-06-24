@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+
+    <string name="app_name">LL+</string>
+    <string name="menu_start">Start</string>
+    <string name="menu_stop">Stop</string>
+    <string name="menu_pause">Pause</string>
+    <string name="menu_resume">Resume</string>
+    <string name="menu_easy">Easy</string>
+    <string name="menu_medium">Medium</string>
+    <string name="menu_hard">Hard</string>
+    <string name="mode_ready">Lunar Lander +\nPress Up To Play\nPress Down to Exit</string>
+    <string name="mode_pause">Paused\nPress Up To Resume\nPress Down to Exit</string>
+    <string name="mode_lose">Game Over\nPress Up To Play\nPress Down to Exit</string>
+    <string name="mode_win_prefix">Success!\n</string>
+    <string name="mode_win_suffix">\nPress Up to Continue\nPress Down to Exit</string>
+    <string name="message_stopped">Stopped</string>
+    <string name="message_off_pad">Off Landing Pad</string>
+    <string name="message_too_fast">Too Fast</string>
+    <string name="message_bad_angle">Bad Angle</string>
+    <string name="message_off_screen">Off screen</string>
+    <string name="lunar_layout_text_text"></string>
+    <string name="buttonText">Button Text</string>
+
+    <string name="setup_title">Setup</string>
+    <string name="setup_subtitle">(Lunar Lander Experiment)</string>
+    <string name="imagecontentdescription">Graffiti Gestures</string>
+    <string name="hint_presented"></string>
+    <string name="hint_transcribed"></string>
+    <string name="ok">OK</string>
+    <string name="save">Save</string>
+    <string name="exit">Exit</string>
+    <string name="participantcode">Participant code</string>
+    <string name="sessioncode">Session code</string>
+    <string name="blockcode">Block code</string>
+    <string name="groupcode">Group code</string>
+    <string name="conditioncode">Condition code</string>
+    <string name="numberoftrials">Number of trials</string>
+    <string name="showgestureset">Show gesture set"</string>
+    <string name="lowercaseonly">Lowercase only"</string>
+    <string name="showrecognizedtextduringentry">Show recognized text during entry</string>
+
+</resources>

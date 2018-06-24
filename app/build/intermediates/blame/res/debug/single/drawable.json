@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Jeremy\\Desktop\\Digital Media\\EECS 4443 - Mobile User Interfaces\\Project\\Demo_LunarLanderPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lander_plain.png",
+        "source": "C:\\Users\\Jeremy\\Desktop\\Digital Media\\EECS 4443 - Mobile User Interfaces\\Project\\Demo_LunarLanderPlus\\app\\src\\main\\res\\drawable\\lander_plain.png"
+    },
+    {
+        "merged": "C:\\Users\\Jeremy\\Desktop\\Digital Media\\EECS 4443 - Mobile User Interfaces\\Project\\Demo_LunarLanderPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lander_crashed.png",
+        "source": "C:\\Users\\Jeremy\\Desktop\\Digital Media\\EECS 4443 - Mobile User Interfaces\\Project\\Demo_LunarLanderPlus\\app\\src\\main\\res\\drawable\\lander_crashed.png"
+    },
+    {
+        "merged": "C:\\Users\\Jeremy\\Desktop\\Digital Media\\EECS 4443 - Mobile User Interfaces\\Project\\Demo_LunarLanderPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\Jeremy\\Desktop\\Digital Media\\EECS 4443 - Mobile User Interfaces\\Project\\Demo_LunarLanderPlus\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Jeremy\\Desktop\\Digital Media\\EECS 4443 - Mobile User Interfaces\\Project\\Demo_LunarLanderPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_lunar_lander.png",
+        "source": "C:\\Users\\Jeremy\\Desktop\\Digital Media\\EECS 4443 - Mobile User Interfaces\\Project\\Demo_LunarLanderPlus\\app\\src\\main\\res\\drawable\\app_lunar_lander.png"
+    },
+    {
+        "merged": "C:\\Users\\Jeremy\\Desktop\\Digital Media\\EECS 4443 - Mobile User Interfaces\\Project\\Demo_LunarLanderPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lander_firing.png",
+        "source": "C:\\Users\\Jeremy\\Desktop\\Digital Media\\EECS 4443 - Mobile User Interfaces\\Project\\Demo_LunarLanderPlus\\app\\src\\main\\res\\drawable\\lander_firing.png"
+    }
+]

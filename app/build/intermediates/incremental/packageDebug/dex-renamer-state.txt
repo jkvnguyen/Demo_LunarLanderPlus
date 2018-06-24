@@ -1,0 +1,7 @@
+#Fri Jun 22 09:58:29 EDT 2018
+base.0=C\:\\Users\\Jeremy\\Desktop\\Digital Media\\EECS 4443 - Mobile User Interfaces\\Project\\Demo_LunarLanderPlus\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f8ca1e4eb02ef40bd99f2e47bc6dde2f9c8d1fec
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Jeremy\\Desktop\\Digital Media\\EECS 4443 - Mobile User Interfaces\\Project\\Demo_LunarLanderPlus\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_36ff46caa0bd5773a641793c08eb061f84f1e28a\\classes.dex
+base.1=C\:\\Users\\Jeremy\\Desktop\\Digital Media\\EECS 4443 - Mobile User Interfaces\\Project\\Demo_LunarLanderPlus\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_36ff46caa0bd5773a641793c08eb061f84f1e28a
+file.0=C\:\\Users\\Jeremy\\Desktop\\Digital Media\\EECS 4443 - Mobile User Interfaces\\Project\\Demo_LunarLanderPlus\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f8ca1e4eb02ef40bd99f2e47bc6dde2f9c8d1fec\\classes.dex

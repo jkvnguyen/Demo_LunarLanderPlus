@@ -1,0 +1,4 @@
+#Fri Jun 22 09:58:25 EDT 2018
+base.0=C\:\\Users\\Jeremy\\Desktop\\Digital Media\\EECS 4443 - Mobile User Interfaces\\Project\\Demo_LunarLanderPlus\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0
+renamed.0=classes.dex
+file.0=C\:\\Users\\Jeremy\\Desktop\\Digital Media\\EECS 4443 - Mobile User Interfaces\\Project\\Demo_LunarLanderPlus\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0\\classes.dex
